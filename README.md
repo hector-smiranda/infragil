@@ -5,7 +5,7 @@ Um pequeno exemplo de uma aplicação em python, com dois arquivos:
 - app.py
 - requirements.txt
 
-0 **negrito** e o *sublinhado*.
+O **negrito** e o *sublinhado*.
 
 ## Utilização
 
@@ -13,3 +13,5 @@ Um pequeno exemplo de uma aplicação em python, com dois arquivos:
 apt-get install -y python3-flask
 python3 app.py
 ```
+
+o link para o site da [4linux](https://4linux.com.br)
